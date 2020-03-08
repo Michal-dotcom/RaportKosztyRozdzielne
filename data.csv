@@ -1,0 +1,12 @@
+"Charakterystyka", "Styczeń", "Luty", "Marzec"
+"Zapas początkowy (szt.)",0, 1.000, 1.000
+"Wielkość produkcji w okresie (szt.)", 4.000, 4.000, 4.000
+"Sprzedaż w okresie (szt.)", 3.000, 4.000, 5.000
+"Zapas końcowy (szt.)", 1.000, 1.000, 0
+"Cena sprzedaży (zł/szt.)", 7, 8, 9
+"Materiały bezpośrednie (zł/szt.)", 2, 2, 2
+"Robocizna bezpośrednia (zł/szt.)", 0.5, 1, 1.5
+"Zmienne koszty wydziałowe (zł/szt.)", 0.5, 1, 1
+"Stałe koszty wydziałowe (zł)", 4.000, 4.000, 4.000
+"Koszty sprzedaży (zł)", 2.500, 2.700, 3.000
+"Koszty zarządu (zł)", 3.300, 3.600, 3.900
